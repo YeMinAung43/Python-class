@@ -1,4 +1,4 @@
-user - YeMinAung
+user - YeMinAung43
 email- yemiag43@gmail.com
 password - YMAgamepro@43
 
@@ -15,20 +15,20 @@ cd Path - Go to Directory
 Firt Time   (New Repository)
 			git init
 			git add .
-			git config global user.email "yeminag43@gamil.com"
-			git config global user.name "YeMinAung"
+			git config --global user.email "yeminag43@gamil.com"
+			git config --global user.name "YeMinAung"
 
-			git cimmit -m "fitst commit"
+			git commit -m "fitst commit"
 			git remote add origin https://github.com/YeMinAung/Sample.git
 			git pish -u origin master
 
 (New Repository For New Project)
 			git init
 			git add .
-			git config global user.email "yeminag43@gamil.com"
-			git config global user.name "YeMinAung"
+			git config --global user.email "yeminag43@gamil.com"
+			git config --global user.name "YeMinAung"
 
-			git cimmit -m "fitst commit"
+			git commit -m "fitst commit"
 			git remote add origin https://github.com/YeMinAung/Sample.git
 			git pish -u origin master
 
