@@ -9,7 +9,7 @@ step 3 - Git Account Creation
 step 4 - Git Repository
 step 5 - A File To upload on github
 step 6 - Git Command Line
-
+q
 cd Path - Go to Directory
 
 Firt Time   (New Repository)
@@ -20,17 +20,14 @@ Firt Time   (New Repository)
 
 			git commit -m "fitst commit"
 			git remote add origin https://github.com/YeMinAung/Sample.git
-			git pish -u origin master
+			git push -u origin master
 
 (New Repository For New Project)
 			git init
 			git add .
-			git config --global user.email "yeminag43@gamil.com"
-			git config --global user.name "YeMinAung"
-
 			git commit -m "fitst commit"
 			git remote add origin https://github.com/YeMinAung/Sample.git
-			git pish -u origin master
+			git push -u origin master
 
 (Old Repository For Existion Project)
 			git add .
