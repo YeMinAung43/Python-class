@@ -66,3 +66,10 @@ ProgramC = ProgramC + ProgramD
 ProgramC[9:] =[]
 ProgramC[5:9] = ProgramD
 ProgramC
+
+len(ProgramC)
+
+a = [10, 20, 30, 40, 50]
+b = [60, 70, 80, 90, 100]
+c = [110, 120, 130, 140, 150]
+x = [a, b, c]
